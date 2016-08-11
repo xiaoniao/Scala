@@ -1,4 +1,31 @@
-�����˽�Scala����ջ http://www.infoq.com/cn/articles/scala-technology
+﻿快速了解Scala技术栈 http://www.infoq.com/cn/articles/scala-technology
 
 document http://www.scala-lang.org/documentation/
 GETTING STARTED http://www.scala-lang.org/documentation/getting-started.html
+
+scala的发展前景？会不会像Java一样流行？https://www.zhihu.com/question/29158303
+
+
+Scala 是一门怎样的语言，具有哪些优缺点？https://www.zhihu.com/question/19748408
+
+
+Java bean 是个什么概念？https://www.zhihu.com/question/19773379/answer/31625054
+
+为什么这两年函数式编程又火起来了呢？ https://www.zhihu.com/question/30190384
+
+国内有哪些 Scala 大牛？https://www.zhihu.com/question/24347325
+
+scala 大牛
+
+	http://www.ac.net.blog.163.com/
+		基于Stateless Future的Scala异步编程（一）初印象 http://qforce.qifun.com/2014/06/26/stateless-future-based-asynchronous-programming-in-scala-1/
+		基于Stateless Future的Scala异步编程（二）欠条 http://qforce.qifun.com/2014/07/02/stateless-future-based-asynchronous-programming-in-scala-2/
+		基于Stateless Future的Scala异步编程（三）欠条的状态 http://qforce.qifun.com/2014/07/07/stateless-future-based-asynchronous-programming-in-scala-3/
+		基于Stateless Future的Scala异步编程（四）await、for和yield http://qforce.qifun.com/2014/07/28/stateless-future-based-asynchronous-programming-in-scala-4/
+		基于Stateless Future的Scala异步编程（五）发生器 http://qforce.qifun.com/2014/08/04/stateless-future-based-asynchronous-programming-in-scala-5/
+		基于Stateless Future的Scala异步编程（六）Future宏的线程约定 http://qforce.qifun.com/2014/08/15/stateless-future-based-asynchronous-programming-in-scala-6/
+		基于Stateless Future的Scala异步编程（七）JumpInto和Sleep http://qforce.qifun.com/2014/08/19/stateless-future-based-asynchronous-programming-in-scala-7/
+		
+	邓草原http://weibo.com/dcaoyuan
+	
+		国内Scala专家邓草原：全方位剖析Scala编程语言 http://blog.csdn.net/chenqiuge1984/article/details/5856615
