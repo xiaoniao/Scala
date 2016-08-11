@@ -1,0 +1,4 @@
+快速了解Scala技术栈 http://www.infoq.com/cn/articles/scala-technology
+
+document http://www.scala-lang.org/documentation/
+GETTING STARTED http://www.scala-lang.org/documentation/getting-started.html
